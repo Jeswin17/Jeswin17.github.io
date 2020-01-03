@@ -1,7 +1,6 @@
 layout: sidebar
 style: dark
 
-
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -36,7 +35,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  # linkedin: jeswin
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -55,7 +54,7 @@ topics:
   - name: Tensorflow
     web_url: https://github.com/topics/tensorflow
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
-
+ 
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://hackaday.com/wp-content/uploads/2019/09/python-logo.png?resize=400,400
@@ -63,10 +62,9 @@ topics:
   - name: Java
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
-
-  - name: DL
+ 
+ -  name: Deep Learning
     web_url: https://github.com/topics/deep-learning
-    image_url: https://f1.pngfuel.com/png/586/210/452/tensorflow-logo-deep-learning-deep-learning-with-python-machine-learning-artificial-intelligence-artificial-neural-network-data-science-deepmind-technologies-png-clip-art.png
-
-
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQu8B8rYh2W-PZlzoJZCSk3bUKWIN9e1ggniB62cduKVaXS_MiG
 theme: jekyll-theme-hacker
+
