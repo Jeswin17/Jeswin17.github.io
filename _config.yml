@@ -68,5 +68,9 @@ topics:
     web_url: https://github.com/topics/deep-learning
     image_url: https://f1.pngfuel.com/png/586/210/452/tensorflow-logo-deep-learning-deep-learning-with-python-machine-learning-artificial-intelligence-artificial-neural-network-data-science-deepmind-technologies-png-clip-art.png
 
+  - name: Dart
+    web_url: https://github.com/topics/dart
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png
+
 
 theme: jekyll-theme-hacker
